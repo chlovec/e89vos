@@ -1,19 +1,30 @@
 {
   "cSpell.words": [
     "btype",
+    "cand",
+    "Chinedu",
+    "CSCIE",
     "denoise",
     "denoised",
     "dereverb",
     "dereverbed",
     "dereverberation",
     "fftconvolve",
+    "figsize",
+    "fmax",
+    "fmin",
     "highpass",
     "istft",
     "lfilter",
+    "mfcc",
+    "MFCCs",
     "newaxis",
     "noisereduce",
+    "pyin",
     "STFT",
     "wavs",
-    "xtts"
+    "xlabel",
+    "xtts",
+    "ylabel"
   ]
 }
