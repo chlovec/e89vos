@@ -1,0 +1,19 @@
+{
+  "cSpell.words": [
+    "btype",
+    "denoise",
+    "denoised",
+    "dereverb",
+    "dereverbed",
+    "dereverberation",
+    "fftconvolve",
+    "highpass",
+    "istft",
+    "lfilter",
+    "newaxis",
+    "noisereduce",
+    "STFT",
+    "wavs",
+    "xtts"
+  ]
+}
